@@ -1,0 +1,8 @@
+# Minimal Gradio Requirements
+# Quick install: pip install -r gradio_requirements_minimal.txt
+
+gradio
+torch
+transformers
+peft
+sentencepiece
